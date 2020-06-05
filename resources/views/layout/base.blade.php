@@ -10,7 +10,7 @@
         <img src="{{ asset('img/logo-sm-white.png') }}" alt="Digital">
     </div>
     
-    <div class="conatiner">
+    <div class="container">
         @yield('conteudo')
     </div>
     
