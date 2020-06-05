@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100%;
+    background-color: dimgrey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+#logo{
+    width: 100%;
+    background-color: rgb(51, 50, 50);
+}
+
+.field{
+    margin-bottom: 10px;
+}
+
+form{
+    margin: 20px;
+    padding: 10px;
+}
